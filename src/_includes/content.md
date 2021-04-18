@@ -13,5 +13,7 @@ See the [GitHub repository](https://github.com/gregives/twelvety) for documentat
 
 Made and used by [Greg Ives](https://gregives.co.uk)
 
+This is a Netlify test.
+
 <!-- Markdown images will automatically use the responsive picture shortcode -->
 ![Time-lapse of a blue and white train moving fast through a station](train.jpg)
